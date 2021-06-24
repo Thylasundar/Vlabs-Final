@@ -1,23 +1,23 @@
 ## Post test
 
 <br>
-Q 1. ____ occurs happens when the amplitude of the message signal is greater than the amplitude of the high frequency signal?<br>
+Q 1.If the amplitude of carrier signal is less than that of the message signal , ----------------- occurs.<br>
 <b>a. Distortion<br></b>
-b. Decay<br>
-c. Amplification<br>
-d. Attenuation<br><br>
+b. Signal decays to 40dB down<br>
+c. No output<br>
+d. Signal decays to 20dB down<br>
 
-Q 2.When does over-modulation occur?<br>
-a. Modulating signal voltage Carrier voltage<br>
-b. Modulating signal voltage = Carrier voltage<br>
-<b>c. Modulating signal voltage > Carrier voltage<br></b>
-d. Modulating signal voltage =0<br>
+Q 2.Over modulation takes place when ________________<br>
+a. Attenuated information is seen<br>
+b. . Ratio of modulation  0<br>
+<b>c. Message signal voltage is greater that the mark Carrier voltage<br></b>
+d. Carrier voltage is not equal to the Message signal voltage <br>
 
-Q 3.What is the modulation index value if Vmax=4.7v and Vmin=2.2v?<br>
-<b>a. 0.362<br></b>
-b. 0.5<br>
-c. 0.425<br>
-d. 0.14<br>
+Q 3.3.	If the amplitude of modulating signal is 2.2V and that of the high frequency signal is 4.7V, then calculate the depth modulation.<br>
+<b>a. 0.468<br></b>
+b. 0.5745<br>
+c. 1.25<br>
+d. 0.84<br>
 
 Q 4.Modulation of the message is done at the **\_**<br>
 a. Receiver<br>
